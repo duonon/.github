@@ -31,15 +31,18 @@ Produktideen früh unter realistischen Bedingungen testen lassen.
 
 ## Wie wir arbeiten
 
-1. **Gemeinsames Verständnis schaffen**  
+1. **Gemeinsames Verständnis schaffen**
+
    Wir klären Problem, Zielgruppe, Rahmenbedingungen und die Kriterien, an denen
    sich eine gute Lösung messen lässt.
 
-2. **Die Idee in eine klare Form bringen**  
+2. **Die Idee in eine klare Form bringen**
+
    Aus dem Ziel entsteht ein fokussiertes Konzept. Produkt, Interface und
    technische Umsetzung werden zusammen gedacht.
 
-3. **Für den echten Einsatz entwickeln**  
+3. **Für den echten Einsatz entwickeln**
+
    Wir bauen wartbare Lösungen, die sinnvoll weiterentwickelt werden können,
    statt kurzfristiger Einzellösungen ohne Perspektive.
 
